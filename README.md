@@ -1,4 +1,4 @@
-Esta es una aplicación sencilla creada en Python para transformar el PDF de las notas provisionales de las convocatorias de la AGE, que vienen ordenadas alfabéticamente, a un EXCEL ordenado por nota, pasr poder saber mejor en que posición se ha quedado.<br>
+Esta es una aplicación sencilla creada en Python para transformar el PDF de las notas provisionales de las convocatorias de la AGE, que vienen ordenadas alfabéticamente, a un EXCEL ordenado por nota, para poder saber mejor en que posición se ha quedado.<br>
 <br>
 He incluido un ejecutable de la aplicación listo para usar en la carpeta &lt;dist&gt;<br>
 <br>
