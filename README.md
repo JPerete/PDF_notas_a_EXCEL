@@ -4,13 +4,13 @@ Para ejecutarlo lo más sencillo es seguir estos pasos:<br>
 &emsp;1: usar un editor de código como Visual Studio Code<br>
 &emsp;2: instalar Python desde https://www.python.org/<br>
 &emsp;3: instalar los paquetes necesarios (pandas, pdfplumber y openpyxl) con los comandos<br>
-&nbsp;&nbsp;- pip install pandas<br>
-&nbsp;&nbsp;- pip install pdfplumber<br>
-&nbsp;&nbsp;- pip install openpyxl<br>
+&emsp;&emsp;- pip install pandas<br>
+&emsp;&emsp;- pip install pdfplumber<br>
+&emsp;&emsp;- pip install openpyxl<br>
 &emsp;4: ejecutar el código<br>
 &emsp;5: también puedes hacer un ejecutable instalando pyinstaller con el comando:<br>
-&nbsp;&nbsp;- pip install pyinstaller<br>
+&emsp;&emsp;- pip install pyinstaller<br>
 &emsp;y después ejecutando el comando: <br>
-&nbsp;&nbsp;- pyinstaller --onefile --noconsole --name "PDF_notas_a_EXCEL" --icon="PDF_to_EXCEL.ico" pdf_notas_a_excel-v1.py<br>
+&emsp;&emsp;- pyinstaller --onefile --noconsole --name "PDF_notas_a_EXCEL" --icon="PDF_to_EXCEL.ico" pdf_notas_a_excel-v1.py<br>
 <br>
 Siéntete libre de modificar el código a tu gusto.<br>
