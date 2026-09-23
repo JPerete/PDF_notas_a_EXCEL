@@ -13,6 +13,6 @@ Para ejecutarlo lo más sencillo es seguir estos pasos:<br>
 &emsp;y después ejecutando el comando: <br>
 &emsp;&emsp;- pyinstaller --onefile --noconsole --name "PDF_notas_a_EXCEL" --icon="PDF_to_EXCEL.ico" pdf_notas_a_excel-v1.py<br>
 <br>
-También he incluido un ejecutable de la aplicación listo para usar en la carpeta dist<br>
+También he incluido un ejecutable de la aplicación listo para usar en la carpeta "dist"<br>
 <br>
 Siéntete libre de modificar el código a tu gusto.<br>
