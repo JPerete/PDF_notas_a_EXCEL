@@ -1,5 +1,7 @@
 Esta es una aplicación sencilla creada en Python para transformar el PDF de las notas provisionales de las convocatorias de la AGE, que vienen ordenadas alfabéticamente, a un EXCEL ordenado por nota, para poder saber mejor en que posición se ha quedado.<br>
 <br>
+El funcionamiento es simple. El desplegable de la fecha de la convocatoria es para que la ponga al final del nombre del archivo Excel que genera. Elige el PDF con las notas y dale al botón "Generar Excel Ordenado". Si todo sale bien, el Excel se creará en la misma carpeta donde se encuentra el PDF y te abrirá el Excel generado.<br>
+<br>
 He incluido un ejecutable de la aplicación listo para usar en la carpeta &lt;dist&gt;<br>
 <br>
 Pero si quieres ejecutarlo desde el código puedes seguir estos pasos:<br>
